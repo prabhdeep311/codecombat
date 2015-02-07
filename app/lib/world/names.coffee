@@ -386,6 +386,7 @@ module.exports.thangNames = thangNames =
     'Nerph'
     'Raack'
     'Ragtime'
+    'Shrek'
     'Skoggen'
     'Smerk'
     'Snortt'
